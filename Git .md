@@ -13,31 +13,31 @@ GIT是一个分布式版本控制工具，是世界上最先进的分布式版�
 ### ubuntu Linux
 1.使用下面的命令进行安装git的工具
 ```sh
-    $ sudo apt-get install git
+$ sudo apt-get install git
 ```
 ### mac ox
 
 1.下载安装xcode开发工具里的 xcode-commnadline 本身带git管理工具
 2.使用brew安装工具直接安装
 ```sh
-     $ brew install git
+$ brew install git
 ```
 ## 创建Git版本库
 
 第一步, 先要创建一个目录, 这个目录就是用来存放仓库的.
 ```sh
-    $ mkdir html
-    $ cd html
+$ mkdir html
+$ cd html
 ```
 第二步, 使用git init命令, 将当前目录创建成git仓库.
 ```sh
-    $ git init
-      Initialized empty Git repository in /home/user/html/.git/
+$ git init
+Initialized empty Git repository in /home/user/html/.git/
 ```
 马上就把仓库创建成功了, 并提示这是一个空仓库.  
 ```sh
-    $ ls -al
-    .git
+$ ls -al
+.git
 ```
 ## 增加文件
 
@@ -73,7 +73,7 @@ $ git config --global user.name "dongjunfeng"
 $ git config --global user.email "dongjunfeng11@outlook.com"
 $ git config --global core.editor vim
 ```
-##提交
+## 提交
 将文件提交至git仓库，跟踪文件
 ```sh
 $ git commit
@@ -84,7 +84,7 @@ first commit
 
 init commit
 ```
-##查看提交信息
+## 查看提交信息
 ```sh
 $ git log
 ```
