@@ -139,11 +139,11 @@ $ git commit
 ## github
 1.注册github账号 
 
-![注册]（http://p1.bpimg.com/1949/cb897d3700a7d519.png）
+![注册](http://p1.bpimg.com/1949/cb897d3700a7d519.png)
    
    1.注册邮箱，注意不要使用QQ邮箱
     
-[注册邮箱]（https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1489489965&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fauthRedirect%3dtrue%26realm%3doutlook.com&id=292841&whr=outlook.com&CBCXT=out&fl=wld&cobrandid=90015）
+[注册邮箱](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1489489965&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fauthRedirect%3dtrue%26realm%3doutlook.com&id=292841&whr=outlook.com&CBCXT=out&fl=wld&cobrandid=90015)
     
 2.创建gitc仓库
 
