@@ -154,3 +154,5 @@ fprintf(stdin, "helloworld\n")  等价于 printf("helloworld\n)
 ```sh
 “1234” ==》 1234
 ```
+## 参考文献
+[SQlite教程](http://www.runoob.com/sqlite/sqlite-tutorial.html)
